@@ -1,4 +1,4 @@
-package co.appbrewery.dicee;
+package com.asparatu.dicee;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
